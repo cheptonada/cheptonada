@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cheptonada
-- 👀 I’m interested in website design
-- 🌱 I’m currently learning html and css 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in front end web development
+- 🌱 I’m currently learning HTML,CSS and JavaScript 
+
 - 📫 How to reach me joanitajeptoo@gmail.com
 
 <!---
